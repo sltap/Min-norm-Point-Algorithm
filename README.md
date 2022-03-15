@@ -6,8 +6,10 @@ There seems to be slight differences between mechanisms of minimum-norm point al
 
 References to these documents are:
 
-https://www.youtube.com/watch?v=Y3u_hvxayDY
+"Stefanie Jegelka: An introduction to Submodularity, Part 1", in https://www.youtube.com/watch?v=Y3u_hvxayDY
 
 "Lexicographically Optimal Base of a Polymatroid with Respect to a Weight Vector” by Satoru Fujishige, published as Vol. 5, No. 2 of the May, 1980 release of “Mathematics of Operations Research”
 
 “The Minimum-Norm-Point Algorithm Submodular Function Minimization and Linear Programming” by Satoru Fujishige, Takumi Hayashi and Shigueo Isotani, published in September 2006
+
+Submodular Function Minimization codes, by Andrea Krause, in https://www.mathworks.com/matlabcentral/fileexchange/20504-submodular-function-optimization?s_tid=srchtitle_submodular%20function%20optimization_1
