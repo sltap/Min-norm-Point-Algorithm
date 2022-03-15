@@ -1,4 +1,4 @@
-By Wu Zhenan (wuzhenan@u.nus.edu).
+By Wu Zhenan (bonhomme@nus.edu.sg).
 
 This folder contains 3 files. File _Min_Norm_Point Algorithm_ explains basic matters including introduction to submodular function and lovasz extension. File _Associating Minimal Norm with Lovasz Extension_ proves that finding the point of minimal norm inside base polyhedron provides a solution to the minimization of a submodular function. File _Explaining Min-Norm-Point Algorithm_ explains the validity of minimum-norm point algorithm.  Definitions and letter symbols are passed bettween documents.
 
